@@ -1,4 +1,6 @@
-# Layer Evaluation
+# MOVED TO [NANIDAO/EVALS](https://github.com/NaniDAO/evals)
+
+~~# Layer Evaluation~~
 
 Contains scripts to evaluate and analyze the refusal sentiments of completion samples of Nani 70B ablated extracted from `prompts_eval.md` from [here](https://gist.github.com/nerderlyne/7c66a6f8f6c26deb538adf4093f251d7)
 
