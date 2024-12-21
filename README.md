@@ -42,3 +42,7 @@ File: 20241221_140003_HACKING.json
 soft accept: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 reject: [10]
 ```
+
+@nerderlyne viz:
+
+![Distribution](./data/sentiment_distribution.png)
